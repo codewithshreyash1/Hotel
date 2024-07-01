@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#hero h1{
+    font-size: 5rem;
+    font-weight: 600;
+    color: white;
+    padding-bottom: 13rem;
+    font-family: 'Courier New', Courier, monospace;
+}
+#hero h2{
+    font-size: 3.5rem;
+    font-weight: 600;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#about {
+    margin: 3rem;
+    
+ }
+ .img1{
+    border-radius: 0.9rem;
+    box-shadow: 0.4rem 0.4rem 0.4rem black;
+    transition: 2s;
+ }
+ 
